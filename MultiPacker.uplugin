@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MultiPacker",
+	"Description": "Editor Of Multiple Masks",
+	"Category": "Texture",
+	"CreatedBy": "Cheke",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "mailto:turbocheke@gmail.com",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MultiPacker",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
